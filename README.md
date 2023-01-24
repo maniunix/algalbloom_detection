@@ -6,4 +6,3 @@
 #### 2. Apply NDCI function
 #### 3. Mask Image collection with values greater than or equal to 0 since we are intreseted in chlorophyll content.
 #### 4. Get the Pixel count on every Satellite passing day
-################################################
